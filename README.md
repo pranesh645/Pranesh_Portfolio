@@ -7,7 +7,7 @@
 
 A modular, multi-page personal portfolio showcasing my journey as an **entry-level Full Stack Developer** working with **Java, Spring Boot, React.js, MySQL and MongoDB**. Clean, dark, motion-enhanced UI with a focus on readability and performance.
 
-**🔗 Live Demo:(https://file:///C:/Users/hp/Downloads/Pranesh_Portfolio_Website/output/index.html)
+**🔗 Live Demo:https://protfolio-pr.netlify.app/
 
 ---
 
