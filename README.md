@@ -1,30 +1,30 @@
-# 🚀 Professional Developer Portfolio
+# 🚀 Professional Developer Portfolio — R. Pranesh
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
 ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
 
-A modular, multi-page professional portfolio designed to showcase my journey as a **Java Software Developer** and **Full-Stack enthusiast**. This project features a clean, motion-enhanced UI with a focus on modern design principles and high performance.
+A modular, multi-page personal portfolio showcasing my journey as an **entry-level Full Stack Developer** working with **Java, Spring Boot, React.js, MySQL and MongoDB**. Clean, dark, motion-enhanced UI with a focus on readability and performance.
 
-**🔗 Live Demo:** [https://personal-portfolio-aravinth.netlify.app/](https://personal-portfolio-aravinth.netlify.app/)
+**🔗 Live Demo:** _add your Netlify/Vercel/GitHub Pages link here once deployed_
 
 ---
 
 ## ✨ Key Features
 
-*   **Modular Architecture:** Organized with dedicated CSS and JS files for each section (About, Skills, Projects, Contact) to ensure scalability.
-*   **Modern UI/UX:** Features a sleek aesthetic—incorporating dark modes and Apple-style layouts—with smooth transitions and custom typography.
-*   **Responsive Multi-Page Design:** A fully optimized experience across mobile, tablet, and desktop devices.
-*   **Technical Showcase:** Integrated sections for documenting core competencies in Java, Spring Boot, MySQL, and modern frontend tools.
-*   **Asset Optimization:** Utilizes high-quality media, including interactive GIFs and custom Geomanist fonts, for a premium feel.
+*   **Modular Architecture:** Dedicated CSS and JS files per section (About, Skills, Projects, Contact).
+*   **Modern UI/UX:** Dark theme, gold accent, smooth hover/shuffle animations, and a generated initials avatar (no stock/borrowed photos).
+*   **Responsive Multi-Page Design:** Optimized for mobile, tablet, and desktop.
+*   **Technical Showcase:** Sections for Java, Spring Boot, MySQL, MongoDB, React and more.
+*   **Resume Download:** One-click resume download from the About and Skills pages.
 
 ## 🛠️ Technical Stack
 
 *   **Frontend:** HTML5, CSS3 (Flexbox & Grid), Vanilla JavaScript.
-*   **Design Tools:** Canva and Leonardo.Ai for custom visual assets.
-*   **Deployment:** Automated builds and hosting via Netlify.
-*   **Version Control:** Managed through Git and GitHub.
+*   **Icons:** Font Awesome.
+*   **Deployment:** Deploy via Netlify, Vercel, or GitHub Pages.
+*   **Version Control:** Git and GitHub.
 
 ## 📂 Project Structure
 ```text
@@ -36,29 +36,34 @@ A modular, multi-page professional portfolio designed to showcase my journey as 
 ├── js/                     # Interactive logic
 │   ├── script.js           # Global interactive components
 │   └── [page].js           # Page-specific functionality
-├── images/                 # Media assets (GIFs, PNGs, JPGs)
-├── fonts/                  # Geomanist font family files
-└── pdf/                    # Downloadable Resume and Certifications
+├── images/                 # Media assets (icons, decorative backgrounds)
+└── pdf/                    # Downloadable resume
 ```
-🚀 Local Setup
-## Clone the repository:
 
-```Bash
-git clone [https://github.com/aravinthsenthil23/Portfolio-website.git](https://github.com/aravinthsenthil23/Portfolio-website.git)
+## 🚀 Local Setup
+
+Clone the repository:
+```bash
+git clone https://github.com/pranesh645/Portfolio-website.git
 ```
-## Navigate to the folder:
 
-```Bash
+Navigate to the folder:
+```bash
 cd Portfolio-website
 ```
-## Run the project:
-# Open index.html in your browser. For the best experience, use the Live Server extension in VS Code.
 
-🤝 Let's Connect
-GitHub: @aravinthsenthil23
+Open `index.html` in your browser. For the best experience, use the Live Server extension in VS Code.
 
-LinkedIn: www.linkedin.com/in/senthilaravinth
+## ⚠️ Before you deploy
 
-Email: senthilaravinth0110@gmail.com
+- The contact form uses [FormSubmit](https://formsubmit.co/) pointed at `praneshpratesh@gmail.com`. The **first** submission triggers a confirmation email from FormSubmit — you must click the activation link in that email before the form will deliver messages.
+- Update the project card links on the Projects page to your actual repo URLs once you push Employee Management System, CHRONOS, and Online Quiz Application to GitHub.
+- Swap the `RP` initials avatar for a real photo any time by replacing the `.avatar-initials` div with an `<img>` tag if you'd like.
 
-Built with precision and passion by Aravinth Senthil
+## 🤝 Let's Connect
+
+- GitHub: [@pranesh645](https://github.com/pranesh645)
+- LinkedIn: [linkedin.com/in/pranesh-profile](https://www.linkedin.com/in/pranesh-profile)
+- Email: praneshpratesh@gmail.com
+
+Built by R. Pranesh
